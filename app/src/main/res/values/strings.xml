@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">animGame01</string>
+    <string name="prop_nameX">translationX</string>
+    <string name="prop_nameY">translationY</string>
+</resources>
